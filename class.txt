@@ -1,0 +1,2 @@
+penClass=bridge.MiddlePen
+colorClass=bridge.Red
